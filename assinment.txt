@@ -1,0 +1,17 @@
+- add loading screen for hame page disappear  after loading posts done
+
+- create delete api 
+
+- Post Details page  (design page from posts details and show title and body). done
+
+- in post details page need to design a comment section and load all comments for this post
+  from this API : https://jsonplaceholder.typicode.com/comments?postId=1 done
+
+
+- validation on Add/edit post From (title and body) are required ,
+   - title minimum length: 10 characters && maximum length: 150 characters  is less/greater show error message done
+   - body minimum length: 50 characters && maximum length: 300 characters  is less/greater show error message done
+
+- validation on Add post post button not working (deactivate) till user add (title and body) done
+
+- adding hook or solution for post api for not calling it two times.
